@@ -1,0 +1,1 @@
+from text_manipulation import text_manipulator
